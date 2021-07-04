@@ -5,7 +5,7 @@ I am Currently Doing My Masters in Computer Science And Recently Completed Cours
 - 🌱 I’m currently learning ... Javacript/React
 - 👯 I’m looking to collaborate on ... Python 3 Projects
 - 💬 Ask me about ... Anything Geeky
-- 📫 How to reach me: ... DM me on Insta Abdulmoiz_37
+- 📫 How to reach me: ... DM me on Insta abdulmoiz_37
 - 😄 Pronouns: ... lol/Lmao
 - ⚡ Fun fact: ... I am very geeky
 -->
